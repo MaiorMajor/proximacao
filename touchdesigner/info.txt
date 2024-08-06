@@ -1,0 +1,2 @@
+Este projeto do TouchDesigner foi realizado no âmbito do Mestrado em Multimédia da FEUP, especialização em Tecnologia Interativas e Jogos Digitais.
+Dentro da pasta 'toxes', estão disponíveis os componentes de Blankensmith 'https://github.com/torinmb/mediapipe-touchdesigner' utilizados. 
