@@ -1,0 +1,2 @@
+Esta pasta contém um programa Python realizado no âmbito do Mestrado em Multimédia da FEUP, especialização em Tecnologias Interativas e Jogos Digitais.
+O ficheiro principal é 'pygame_graphics.py' que utiliza o módulo 'face_tracker.py'.
