@@ -1,4 +1,4 @@
-import pygame # type: ignore
+import pygame
 import random
 import time
 import os
@@ -52,13 +52,13 @@ pygame.init()
 # Configurações da tela
 screen_width, screen_height = 800, 600
 screen = pygame.display.set_mode((screen_width, screen_height), pygame.FULLSCREEN)
-pygame.display.set_caption("Proximação")
+pygame.display.set_caption("Proximar")
 
 # Fonte para o texto
 font = pygame.font.SysFont("courier new", 25)
 
 # Ler o texto do trabalho teórico e construir a cadeia de Markov
-texto_original = ler_texto("trabalho_teorico.txt")
+texto_original = ler_texto("proximacao_texto.txt")
 cadeia_markov = construir_cadeia_de_markov(texto_original)
 
 # Ler a lista de substantivos e conectores
@@ -69,7 +69,7 @@ lista_conectores = ler_texto("conectores.txt").splitlines()
 running = True
 
 # Abrir o arquivo de texto para escrita no início do programa
-arquivo_frases_geradas = open("frases_geradas.txt", "w", encoding="utf-8")
+arquivo_frases_geradas = open("frases_criadas.txt", "w", encoding="utf-8")
 
 data_atual = datetime.now().strftime("%d/%m/%Y")
 arquivo_frases_geradas.write("Data: "+ data_atual+ "\n\n")
