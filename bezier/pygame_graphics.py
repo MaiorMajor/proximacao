@@ -2,15 +2,15 @@ import pygame
 import sys
 from face_tracker import FaceTracker
 
-"""Interpola linearmente entre dois pontos baseado em t."""
+#Interpola linearmente entre dois pontos baseado em t.
 def interpolate(t, ponto1, ponto2):
     return ponto1[0] + t * (ponto2[0] - ponto1[0]), ponto1[1] + t * (ponto2[1] - ponto1[1])
-"""Calcula um ponto numa curva de Bezier para um dado t."""
+#Calcula um ponto numa curva de Bezier para um dado t.
 def bezier(t, pontos):
     while len(pontos) > 1:
         pontos = [interpolate(t, pontos[i], pontos[i+1]) for i in range(len(pontos)-1)]
     return pontos[0]
-"""Desenha uma curva de Bezier na superfície dada, baseada nos pontos de controlo."""
+#Desenha uma curva de Bezier na superfície dada, baseada nos pontos de controlo.
 def desenha_bezier(superficie, cor, pontos_ctrl, segmentos=20):
     # Executa a funcao bezier 
     pontos = [bezier(t/segmentos, pontos_ctrl[:]) for t in range(segmentos + 1)]
