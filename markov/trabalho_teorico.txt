@@ -1,0 +1,152 @@
+arte e tecnologia
+introdução
+esta proposta enquadrada na unidade curricular de arte e tecnologia propõe
+pensar as intersecções entre a automação e a programação enquanto elementos que
+podem ser transformados em veículos de dimensão estésica sob a forma de um
+computador emancipado do seu design
+começa-se por assumir a centralidade do pensamento de Simondon relativamente ao objeto técnico e ao automatismo como limitador do potencial de aperfeiçoamento do mesmo argumenta-se de que forma a automação pode conter gesto humano e consequentemente um acaso constante a programação seria a criadora e destruidora da automação inerentemente capaz de criar objetos selvagens pelo
+gesto da escrita de código
+assim a máquina mostra-se apta para a mediação sensível ainda que de forma
+discretizada sob o recipiente de informação que é o computador por necessidade
+acompanhado pela interface tradutora do código binário para a linguagem humana
+propõe-se com o conceito de emancipação do espectador uma emancipação do
+computador que vá de encontro com o apontado por Simondon
+o papel da performance neste processo leva a pensar sobre as questões relacionadas com estes acontecimentos em tempo real também característicos dos meios
+computacionais pensa-se a presença do computador e o seu papel a influência limitada na performance: não pode iniciar nem terminar está dependente do humano
+a diferenciação como proximação processo de emancipação computador-humano que tipo de dados pode o computador receber e o humano não pode da mesma maneira por fim especula-se sobre uma perceção prospetiva que contrarie a vinculação com o presente da arte em tempo real
+
+automação como objeto técnico
+começa-se por abordar a questão do objeto técnico segundo a perspetiva de Simondon 2018 que expõe atitudes contraditórias face aos mesmos a assunção de uma
+hostilidade inerente aos objetos que se impede com a redução à sua utilidade ao
+seu design esta última levará a um baixo grau de perfeição técnica sob a forma
+de automatismo Simondon propõe que a flexibilidade da máquina rebelando-se
+contra tarefas rígidas e pré determinadas é o que a aperfeiçoa e permite uma sensi
+bilidade secção 3 que a abre ao exterior constituindo uma emancipação do sistema consequentemente coloca o humano numa posição organizadora e interpretativa
+ perante os processos automáticos fechados
+Um sistema interativo tem o potencial de variação e imprevisibilidade
+na sua resposta Drummond 2009
+a indeterminação leva à emancipação do objeto técnico e novas possibilidades de
+utilização em contexto artístico é neste percurso que o objeto técnico se tornaria
+num objeto selvagem
+segundo Flusser 2011 a automação é a rápida computação de coincidências e a programação é parar a automação no instante em que essa coincidência
+se forma o termo coincidência pressupõe alguma indeterminação no processo
+automático este à partida programado mas que pode revelar singularidades num
+conjunto de aleatoriedades neste sentido propõe-se a questão de uma automação
+com potencial fluído tendo em consideração a origem humana destes processos
+programação de objetos selvagens
+a programação neste escopo pode ser vista como a criadora da automação e ao
+mesmo tempo o instrumento para a sua rutura o que se observa atualmente no panorama tecnológico relativo a redes neuronais é uma aproximação à indeterminação que aqui se pensa ainda assim limitado aos dados a que recorre selecionados pelo humano
+propõe-se uma programação como potencial de invenção de objetos selvagens pelo
+gesto da escrita mediada por máquina que nos faz tomar consciência do processo
+dialético entre o programa que se escreve e o que se quer alcançar Flusser 2014 neste gesto embora associado a processos técnicos o programa tem de funcionar em termos de output da mesma forma que uma imagem digital depende da neste contexto as noções de automação e automatismo são utilizadas em conjunto para refletir uma
+complexidade dos sistemas tecnológicosa automação refere-se à execução técnica e programada de
+tarefas bem como o automatismo esta dualidade conceptual permite explorar a interseção entre a
+rigorosidade da programação e a imprevisibilidade das respostas criativas fundamentais no estudo da
+interação entre humanos e máquinas na arte e na tecnologia
+redes neuronais são sistemas de unidades processadoras em camadas ajustando-se por pesos para
+analisar dados e prever padrões com o treino baseado na minimização de erro são um tema essencial
+na compreensão de grandes modelos de linguagem como o ChatGPT
+automação como objeto técnico
+sua codificação para ser exibida na interface o programador possui mais ou menos poder na escrita de algoritmos por forma a extrapolar para um programa com
+significado a grande diferença do gesto de escrever de Flusser para o aqui apresentado gesto de escrever algoritmos está no intérprete sendo a programação
+interpretada de forma automatizada pelo computador resultando num output nesta perspetiva menciona-se a análise feita por Kerry Doran no artigo speaking in code 2015 que explora a interseccionalidade entre a poesia e a programação
+Doran salienta que desde a criação de poemas com o computador Zuse Z22 em
+1959 a codificação tem evoluído como uma forma poética exemplificada em trabalhos como figura que
+usou a programação para manipular palavras e letras em movimento expondo a
+capacidade de gerar respostas imprevisíveis
+mediação sensível
+a aparência nomeadamente na sua dimensão estésica será então o
+output de um algoritmo e o computador um medium particularmente
+apto a produzir fenomenalidade e a experiência sensível
+
+meios digitais como recipientes de sinais que possibilitam a experiência do sensível no entanto estes meios dependem de um corpo para a propagação dos
+respetivos sinais multimodais na ideia de que o primeiro dispositivo cultural foi
+provavelmente um recipiente e a exploração do próprio computador como uma realidade material com potencial mediador toma-se a motherboard
+como um espaço de conexão entre componentes que permite uma análise discretizada do exterior a interface por outro lado é o mediador entre o código binário e
+a perceção humana
+o computador emancipado
+uma das contribuições de Rancière para o pensamento da estética contemporânea
+foi o conceito de espectador emancipado que desenvolve no livro com o mesmo
+nome o autor questiona as noções tradicionais do teatro que colocam o espectador
+num lugar passivo onde o seu contrário o envolvimento e o dinamismo será
+alcançado pelo teatro sem espectadores Rancière 2022 p.8 que suprime a relação
+ótica passiva com a peça isto pode ser aplicável às práticas artísticas ficando
+evidente por parte do autor numa referência aos híbridos uma mistura dos géneros
+que dilui as fronteiras entre domínios artísticos e técnicos
+a ideia de espetáculo pressupõe uma mediação que cria uma separação do espectador da capacidade de conhecer e poder de agir esta separação entre o indivíduo
+e a verdade autêntica leva à ideia da alienação em Marx e a crítica feuerbachiana da
+religião
+a separação entre palco e a sala é um estado de coisas que tem de ser
+ultrapassado suprimir essa exterioridade é o próprio objetivo da performance o que supostamente acontece de diversas maneiras: colocando os espectadores em cima do palco e os performers na sala deslocando
+a performance para outros lugares identificando a performance com uma
+apropriação da rua da cidade ou da vida Rancière 
+o mais rigoroso seria dizer que existem várias etapas de tradução sendo o output do algoritmo a última visto que as próprias linguagens de programação são uma forma de o computador interpretar as
+intenções humanas que numa fase posterior será traduzida para código binário que produz o output
+desejado
+para a alienação não é o afastamento da propriedade mas dos poderes dos nossos poderes
+comuns de transformar os nossos mundos sociais através do trabalho conjunto somos alienados quando
+estamos fechados e separados por modos de produção  fazendo uso do conceito de
+alienação podemos aplicá-lo a esta ideia da condição de espectador que está associada a uma posição
+sem poder e de separação
+crítica que pressupõe que a religião aliena o ser humano da sua essência
+mediação sensível
+é esta transformação do mundo que dá significado à palavra emancipação um
+desmantelar a fronteira entre os que agem e os que vêem entre indivíduos e mem
+bros de um corpo coletivo esta mensagem pressupõe uma
+indissociação da condição do espectador do contexto político e social em que se
+insere apelando à conscientização perante a igualdade entre espectadores e atores
+a proposta de substituição de espectador por computador neste contexto pretende colocar em foco o mencionado no pensamento de Simondon um programa automático mostra-se submisso ao input e aos dados que utiliza sendo esta uma limitação para a expansão da máquina como potencial ativo a máquina ultrapassaria da programação para o automático para a programação para o autoexomático que tira partido da indeterminação automática já ela associada ao gesto humano permitindo uma extensão que quebra barreiras operacionais rígidas
+com esta proposta de dissolução entre o programador e a máquina não se pre
+tende atribuir as características de um a outro mas tomar consciência dessas um
+humano intérprete vivo 2018 para 8 dos processos maquínicos significa que
+a emancipação do computador pode estender-se para a emancipação do programa
+dor um que pensa para além da técnica não se limitando à funcionalidade
+tendo em consideração a mão humana carimbada nos dispositivos computacionais
+e o contexto político indissociável de toda a sua existência este último seria o ponto
+de partida para este processo de emancipação
+aí pode-se pensar num processo de proximação uma constante libertação da rigidez da técnica para alcançar um estado de simbiose entre máquina e programador
+que ultrapasse a necessidade de input constante e de uma funcionalidade opressora
+presença e proximação
+a presença do homem nas máquinas é uma invenção perpetuada o
+que reside nas máquinas é realidade humana gesto humano fixado e
+cristalizado em estruturas que funcionam para 
+tomando o papel da performance na citação em nesta secção pretende
+se pensar a presença e que papel têm os meios computacionais na expansão da
+mesma o que nos mostra é que a performance audiovisual ao vivo
+produz efeitos de presença através da mediação tecnológica esta abordagem multissensorial distingue-se pela inclusão de estéticas alternativas e inovação tecnológica ampliando-se para além do corpo do artista para os media multimodais a
+presença tanto física quanto tecnologicamente mediada desempenha um papel
+central permitindo experiências transformadoras e efémeras
+num pensamento inicial sobre o conceito de presença poder-se-ia defini-lo neste
+contexto como uma co-presença entre performer e computador esta ideia circunscreve auto do grego autós significa próprio exo do grego exo significa fora externo ou além
+mática do grego mekhanike mecanismo ou máquina assim autoexomática poderia ser interpretada como um mecanismo ou sistema que opera de forma autónoma mas que se comporta de maneira que vai além dos limites ou regras operacionais normais
+mediação sensível a presença a um contexto físico e é classificada por  como conceito fraco o que a autora propõe são conceitos de presença que ultrapassam o físico
+para o corpo semiótico do performer conforme abordado por poderá ser exemplo de
+tentativa para alcançar este estado absoluto de presença
+da mesma forma  com a performance  é exemplo de
+colocar os espectadores como atores pela particularidade de eles interromperem a
+performance de autoflagelação um acontecimento fora do previsto transpondo para a interação humano-computador é evidente o
+poder do artista começar e terminar o programa a ser executado pelo sistema mas
+o último não parece ter este poder de agência no meio da performance não obstante
+a presença destes dispositivos dita o rumo da performance influenciando gestos
+humanos de domesticação ou de orientação no consciente ou subconsciente
+uma hipótese de resolução seria a capacidade da máquina decidir quando começa e quando acabar alcançado parcialmente com a peça 
+onde a própria construção da instalação se autodestrói
+substitui-se a palavra computador por espectador mediação sensível
+
+a questão do momento presente e do acontecimento em tempo real irrepetível algo potenciado pela generatividade dos algoritmos e a produção de gráficos
+será o que oferece à máquina uma certa capacidade de agência sobre uma perfor
+mance para isso propõe-se então uma diferenciação do humano que favoreça a
+interpretação de dados do exterior para além dos mais comuns visão audição
+utilizando por exemplo biosinais como forma de interpretar gestos
+explora a eletromiografia para a interpretação de dados captados do
+movimento dos músculos conectado a um sistema de mapeamento de som concatenativo
+considerações futuras
+
+considerações futuras
+A vantagem da produção de gráficos em tempo real é a sua capacidade de favorecer uma arte dita presentativa sem referente e por isso não estando
+dependente do passado poder-se-à eventualmente pensar uma máquina que não
+esteja presa ao presente por isso emancipada um modelo de identificação de
+padrões a partir de um seria repensado para propósitos inventores de realidades não apropriadores de produções humanas apresenta-se então uma ideia de
+prospeção que procura responder à pergunta podemos fotografar o futuro
+
+
